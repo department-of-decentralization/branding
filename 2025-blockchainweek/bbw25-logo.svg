@@ -1,35 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1080 1080">
-  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
   <defs>
     <style>
-      .st0 {
-        fill: #fa0;
+      .cls-1 {
+        fill: #e2382a;
       }
 
-      .st1 {
+      .cls-2 {
         fill: #fff;
-      }
-
-      .st2 {
-        display: none;
       }
     </style>
   </defs>
-  <g id="Layer_2" class="st2">
+  <g id="Layer_2" data-name="Layer 2">
     <rect x="0" y="1" width="1080" height="1080"/>
   </g>
-  <g id="Layer_1">
-    <path class="st1" d="M93.4,314.3v105.6h893.3v-105.6H93.4Z"/>
-    <path class="st1" d="M390.9,218v79.2h79.2v-79.2h-79.2Z"/>
-    <path class="st1" d="M609.9,218v79.2h79.2v-79.2h-79.2Z"/>
-    <path class="st1" d="M487.2,191.6v105.6h105.6v-105.6h-105.6Z"/>
-    <path class="st1" d="M224.6,437.1h-105.6v413.8h105.6v-413.8Z"/>
-    <path class="st1" d="M347.3,437.1h-105.6v413.8h105.6v-413.8Z"/>
-    <path class="st1" d="M470.1,437.1h-105.6v413.8h105.6v-413.8Z"/>
-    <path class="st1" d="M592.8,437.1h-105.6v413.8h105.6v-413.8Z"/>
-    <path class="st0" d="M961,437.1h-105.6v413.8h105.6v-413.8Z"/>
-    <path class="st0" d="M586,468.9l-95.7,44.8,175.5,374.7,95.7-44.8-175.5-374.7Z"/>
-    <path class="st0" d="M882.1,473.3l-98.3-38.7-151.6,385,98.3,38.7,151.6-385Z"/>
+  <g id="Layer_1" data-name="Layer 1">
+    <path class="cls-2" d="M93.37,314.32v105.62h893.25v-105.62H93.37Z"/>
+    <path class="cls-2" d="M390.9,218.03v79.17h79.17v-79.17h-79.17Z"/>
+    <path class="cls-2" d="M609.93,218.03v79.17h79.17v-79.17h-79.17Z"/>
+    <path class="cls-2" d="M487.19,191.58v105.62h105.62v-105.62h-105.62Z"/>
+    <path class="cls-2" d="M224.59,437.06h-105.62v413.76h105.62v-413.76Z"/>
+    <path class="cls-2" d="M347.33,437.06h-105.62v413.76h105.62v-413.76Z"/>
+    <path class="cls-2" d="M470.07,437.06h-105.62v413.76h105.62v-413.76Z"/>
+    <path class="cls-2" d="M592.81,437.06h-105.62v413.76h105.62v-413.76Z"/>
+    <path class="cls-1" d="M961.03,437.06h-105.62v413.76h105.62v-413.76Z"/>
+    <path class="cls-1" d="M585.99,468.92l-95.65,44.79,175.48,374.7,95.65-44.79-175.48-374.7Z"/>
+    <path class="cls-1" d="M882.08,473.32l-98.27-38.71-151.64,384.97,98.27,38.71,151.64-384.97Z"/>
   </g>
 </svg>
