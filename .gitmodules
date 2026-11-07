@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Department of Decentralization
+# SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
+[submodule "2025-39c3-cdc"]
+	path = 2025-39c3-cdc
+	url = https://github.com/l5yth/39c3-cdc
