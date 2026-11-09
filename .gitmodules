@@ -4,3 +4,6 @@
 [submodule "2025-39c3-cdc"]
 	path = 2025-39c3-cdc
 	url = https://github.com/l5yth/39c3-cdc
+[submodule "2026-40c3-cdc"]
+	path = 2026-40c3-cdc
+	url = https://github.com/l5yth/40c3-cdc
